@@ -1,0 +1,6 @@
+{
+  "name": "Prescient Crossborder",
+  "description": "The trusted IPO advisor guiding companies from being 'IPO-ready' through becoming a successful public company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
